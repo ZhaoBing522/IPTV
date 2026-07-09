@@ -1,407 +1,581 @@
-#EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV1.png" group-title="IPTV",CCTV1
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV1.png" group-title=" IPTV",CCTV1
 http://120.48.231.201:58823/hls/1/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV1.png" group-title="IPTV",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV1.png" group-title=" IPTV",CCTV1
 http://183.184.48.126:9003/hls/1/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV1.png" group-title="IPTV",CCTV1
-http://139.227.21.22:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV1.png" group-title="IPTV",CCTV1
-http://223.78.65.165:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV2.png" group-title="IPTV",CCTV2
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV1.png" group-title=" IPTV",CCTV1
+http://139.227.21.22:9901/tsfile/live/0001_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV1.png" group-title="IPTV",CCTV1
+http://223.78.65.165:9901/tsfile/live/0001_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV2.png" group-title="IPTV",CCTV2
 http://120.48.231.201:58823/hls/2/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV2.png" group-title="IPTV",CCTV2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV2.png" group-title="IPTV",CCTV2
 http://183.184.48.126:9003/hls/2/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV2.png" group-title="IPTV",CCTV2
-http://139.227.21.22:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV2.png" group-title="IPTV",CCTV2
-http://223.78.65.165:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV3.png" group-title="IPTV",CCTV3
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV2.png" group-title="IPTV",CCTV2
+http://139.227.21.22:9901/tsfile/live/0002_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV2.png" group-title="IPTV",CCTV2
+http://223.78.65.165:9901/tsfile/live/0002_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV3.png" group-title="IPTV",CCTV3
 http://120.48.231.201:58823/hls/3/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV3.png" group-title="IPTV",CCTV3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV3.png" group-title="IPTV",CCTV3
 http://183.184.48.126:9003/hls/3/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV3.png" group-title="IPTV",CCTV3
-http://139.227.21.22:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV3.png" group-title="IPTV",CCTV3
-http://223.78.65.165:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV4.png" group-title="IPTV",CCTV4
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV3.png" group-title="IPTV",CCTV3
+http://139.227.21.22:9901/tsfile/live/0003_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV3.png" group-title="IPTV",CCTV3
+http://223.78.65.165:9901/tsfile/live/0003_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV4.png" group-title="IPTV",CCTV4
 http://120.48.231.201:58823/hls/4/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV4.png" group-title="IPTV",CCTV4
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV4.png" group-title="IPTV",CCTV4
 http://183.184.48.126:9003/hls/4/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV4.png" group-title="IPTV",CCTV4
-http://139.227.21.22:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV4.png" group-title="IPTV",CCTV4
-http://223.78.65.165:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV5.png" group-title="IPTV",CCTV5
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV4.png" group-title="IPTV",CCTV4
+http://139.227.21.22:9901/tsfile/live/0004_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV4.png" group-title="IPTV",CCTV4
+http://223.78.65.165:9901/tsfile/live/0004_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV4K.png" group-title="IPTV",CCTV4K
+http://82.156.243.185:36888/av3a/cctv4kn.m3u8
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV4K.png" group-title="IPTV",CCTV4K
+http://82.156.243.185:36888/av3a/cctv4k.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV5.png" group-title="IPTV",CCTV5
+http://82.156.243.185:36888/av3a/cctv5n.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV5.png" group-title="IPTV",CCTV5
 http://120.48.231.201:58823/hls/5/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV5.png" group-title="IPTV",CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV5.png" group-title="IPTV",CCTV5
 http://183.184.48.126:9003/hls/5/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV5.png" group-title="IPTV",CCTV5
-http://139.227.21.22:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV5.png" group-title="IPTV",CCTV5
-http://223.78.65.165:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV5%2B.png" group-title="IPTV",CCTV5+
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV5.png" group-title="IPTV",CCTV5
+http://139.227.21.22:9901/tsfile/live/0005_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV5.png" group-title="IPTV",CCTV5
+http://223.78.65.165:9901/tsfile/live/0005_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV5%2B.png" group-title="IPTV",CCTV5+
+http://82.156.243.185:36888/av3a/cctv5pn.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV5%2B.png" group-title="IPTV",CCTV5+
 http://183.184.48.126:9003/hls/6/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV5%2B.png" group-title="IPTV",CCTV5+
-http://139.227.21.22:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV5%2B.png" group-title="IPTV",CCTV5+
-http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV6.png" group-title="IPTV",CCTV6
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV5%2B.png" group-title="IPTV",CCTV5+
+http://139.227.21.22:9901/tsfile/live/1011_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV5%2B.png" group-title="IPTV",CCTV5+
+http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV6.png" group-title="IPTV",CCTV6
 http://120.48.231.201:58823/hls/6/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV6.png" group-title="IPTV",CCTV6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV6.png" group-title="IPTV",CCTV6
 http://183.184.48.126:9003/hls/7/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV6.png" group-title="IPTV",CCTV6
-http://139.227.21.22:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV6.png" group-title="IPTV",CCTV6
-http://223.78.65.165:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV7.png" group-title="IPTV",CCTV7
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV6.png" group-title="IPTV",CCTV6
+http://139.227.21.22:9901/tsfile/live/0006_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV6.png" group-title="IPTV",CCTV6
+http://223.78.65.165:9901/tsfile/live/0007_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV7.png" group-title="IPTV",CCTV7
 http://120.48.231.201:58823/hls/7/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV7.png" group-title="IPTV",CCTV7
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV7.png" group-title="IPTV",CCTV7
 http://183.184.48.126:9003/hls/8/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV7.png" group-title="IPTV",CCTV7
-http://139.227.21.22:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV7.png" group-title="IPTV",CCTV7
-http://223.78.65.165:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV8.png" group-title="IPTV",CCTV8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV7.png" group-title="IPTV",CCTV7
+http://139.227.21.22:9901/tsfile/live/0007_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV7.png" group-title="IPTV",CCTV7
+http://223.78.65.165:9901/tsfile/live/0008_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV8.png" group-title="IPTV",CCTV8
 http://120.48.231.201:58823/hls/8/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV8.png" group-title="IPTV",CCTV8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV8.png" group-title="IPTV",CCTV8
 http://183.184.48.126:9003/hls/9/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV8.png" group-title="IPTV",CCTV8
-http://139.227.21.22:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV8.png" group-title="IPTV",CCTV8
-http://223.78.65.165:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV9.png" group-title="IPTV",CCTV9
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV8.png" group-title="IPTV",CCTV8
+http://139.227.21.22:9901/tsfile/live/0008_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV8.png" group-title="IPTV",CCTV8
+http://223.78.65.165:9901/tsfile/live/0009_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV8K.png" group-title="IPTV",CCTV8K
+http://82.156.243.185:36888/av3a/cctv8kn.m3u8
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV8K.png" group-title="IPTV",CCTV8K
+http://82.156.243.185:36888/av3a/cctv8k.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV9.png" group-title="IPTV",CCTV9
 http://120.48.231.201:58823/hls/9/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV9.png" group-title="IPTV",CCTV9
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV9.png" group-title="IPTV",CCTV9
 http://183.184.48.126:9003/hls/10/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV9.png" group-title="IPTV",CCTV9
-http://139.227.21.22:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV9.png" group-title="IPTV",CCTV9
-http://223.78.65.165:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV10.png" group-title="IPTV",CCTV10
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV9.png" group-title="IPTV",CCTV9
+http://139.227.21.22:9901/tsfile/live/0009_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV9.png" group-title="IPTV",CCTV9
+http://223.78.65.165:9901/tsfile/live/0010_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV10.png" group-title="IPTV",CCTV10
 http://120.48.231.201:58823/hls/10/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV10.png" group-title="IPTV",CCTV10
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV10.png" group-title="IPTV",CCTV10
 http://183.184.48.126:9003/hls/11/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV10.png" group-title="IPTV",CCTV10
-http://139.227.21.22:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV10.png" group-title="IPTV",CCTV10
-http://223.78.65.165:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV11.png" group-title="IPTV",CCTV11
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV10.png" group-title="IPTV",CCTV10
+http://139.227.21.22:9901/tsfile/live/0010_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV10.png" group-title="IPTV",CCTV10
+http://223.78.65.165:9901/tsfile/live/0011_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV11.png" group-title="IPTV",CCTV11
 http://120.48.231.201:58823/hls/11/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV11.png" group-title="IPTV",CCTV11
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV11.png" group-title="IPTV",CCTV11
 http://183.184.48.126:9003/hls/12/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV11.png" group-title="IPTV",CCTV11
-http://139.227.21.22:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV11.png" group-title="IPTV",CCTV11
-http://223.78.65.165:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV12.png" group-title="IPTV",CCTV12
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV11.png" group-title="IPTV",CCTV11
+http://139.227.21.22:9901/tsfile/live/0011_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV11.png" group-title="IPTV",CCTV11
+http://223.78.65.165:9901/tsfile/live/0012_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV12.png" group-title="IPTV",CCTV12
 http://120.48.231.201:58823/hls/12/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV12.png" group-title="IPTV",CCTV12
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV12.png" group-title="IPTV",CCTV12
 http://183.184.48.126:9003/hls/13/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV12.png" group-title="IPTV",CCTV12
-http://139.227.21.22:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV12.png" group-title="IPTV",CCTV12
-http://223.78.65.165:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV13.png" group-title="IPTV",CCTV13
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV12.png" group-title="IPTV",CCTV12
+http://139.227.21.22:9901/tsfile/live/0012_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV12.png" group-title="IPTV",CCTV12
+http://223.78.65.165:9901/tsfile/live/0013_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV13.png" group-title="IPTV",CCTV13
 http://120.48.231.201:58823/hls/13/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV13.png" group-title="IPTV",CCTV13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV13.png" group-title="IPTV",CCTV13
 http://183.184.48.126:9003/hls/14/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV13.png" group-title="IPTV",CCTV13
-http://139.227.21.22:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV13.png" group-title="IPTV",CCTV13
-http://223.78.65.165:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV14.png" group-title="IPTV",CCTV14
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV13.png" group-title="IPTV",CCTV13
+http://139.227.21.22:9901/tsfile/live/0135_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV13.png" group-title="IPTV",CCTV13
+http://223.78.65.165:9901/tsfile/live/0014_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV14.png" group-title="IPTV",CCTV14
 http://120.48.231.201:58823/hls/14/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV14.png" group-title="IPTV",CCTV14
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV14.png" group-title="IPTV",CCTV14
 http://183.184.48.126:9003/hls/15/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV14.png" group-title="IPTV",CCTV14
-http://139.227.21.22:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV14.png" group-title="IPTV",CCTV14
-http://223.78.65.165:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV15.png" group-title="IPTV",CCTV15
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV14.png" group-title="IPTV",CCTV14
+http://139.227.21.22:9901/tsfile/live/0014_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV14.png" group-title="IPTV",CCTV14
+http://223.78.65.165:9901/tsfile/live/0015_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV15.png" group-title="IPTV",CCTV15
 http://120.48.231.201:58823/hls/15/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV15.png" group-title="IPTV",CCTV15
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV15.png" group-title="IPTV",CCTV15
 http://183.184.48.126:9003/hls/16/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV15.png" group-title="IPTV",CCTV15
-http://139.227.21.22:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV16.png" group-title="IPTV",CCTV16
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV15.png" group-title="IPTV",CCTV15
+http://139.227.21.22:9901/tsfile/live/0015_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV16.png" group-title="IPTV",CCTV16
 http://192.168.68.21:8123/PLTV/52afa7e3404459254774e3e4824813be
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV17.png" group-title="IPTV",CCTV17
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV16.png" group-title="IPTV",CCTV16
+http://82.156.243.185:36888/av3a/cctv16n.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV17.png" group-title="IPTV",CCTV17
 http://192.168.68.21:1111/673168256
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV17.png" group-title="IPTV",CCTV17
-http://39.150.98.32:37799/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CCTV4K.png" group-title="IPTV",CCTV4K
-http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
-#EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="IPTV",苏州4K
-https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-#EXTINF:-1 tvg-name="南国都市4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="IPTV",南国都市4K
-https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="IPTV",东方卫视
-http://192.168.68.21:8123/PLTV/67ff9c6f7f7046cdd5d32677b3eeb1b7
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="IPTV",东方卫视
-http://120.48.231.201:58823/hls/36/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="IPTV",东方卫视
-http://183.184.48.126:9003/hls/23/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="IPTV",东方卫视
-http://139.227.21.22:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="IPTV",东方卫视
-http://223.78.65.165:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",云南卫视
-http://120.48.231.201:58823/hls/25/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",云南卫视
-http://39.150.98.32:37799/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",云南卫视
-http://139.227.21.22:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",云南卫视
-http://223.78.65.165:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png" group-title="IPTV",内蒙古卫视
-http://182.140.125.47:808/hls/51/index.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png" group-title="IPTV",内蒙古卫视
-http://223.78.65.165:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="IPTV",北京卫视
-http://192.168.68.21:8123/PLTV/e3b9506d6ec4705f300c765fea04d78a
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="IPTV",北京卫视
-http://120.48.231.201:58823/hls/16/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="IPTV",北京卫视
-http://183.184.48.126:9003/hls/18/index.m3u8
-#EXTINF:-1 tvg-name="卫视体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%8D%AB%E8%A7%86%E4%BD%93%E8%82%B2.png" group-title="IPTV",卫视体育
-http://120.48.231.201:58823/hls/62/index.m3u8
-#EXTINF:-1 tvg-name="卫视体育2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%8D%AB%E8%A7%86%E4%BD%93%E8%82%B22.png" group-title="IPTV",卫视体育2
-http://120.48.231.201:58823/hls/63/index.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",吉林卫视
-http://120.48.231.201:58823/hls/32/index.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",吉林卫视
-http://139.227.21.22:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="IPTV",四川卫视
-http://192.168.68.21:8123/PLTV/3ffa81c994eb3330fde7f9f177c0386a
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="IPTV",四川卫视
-http://120.48.231.201:58823/hls/45/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="IPTV",四川卫视
-http://183.184.48.126:9003/hls/38/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="IPTV",四川卫视
-http://139.227.21.22:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="IPTV",天津卫视
-http://120.48.231.201:58823/hls/40/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="IPTV",天津卫视
-http://223.78.65.165:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",宁夏卫视
-http://120.48.231.201:58823/hls/26/index.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",宁夏卫视
-http://183.184.48.126:9003/hls/39/index.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",宁夏卫视
-http://223.78.65.165:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="IPTV",安徽卫视
-http://120.48.231.201:58823/hls/28/index.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="IPTV",安徽卫视
-http://139.227.21.22:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="IPTV",安徽卫视
-http://223.78.65.165:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="IPTV",山东卫视
-http://192.168.68.21:8123/PLTV/1e3d93b94d53f35a12b66a44d4f0bd29
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="IPTV",山东卫视
-http://120.48.231.201:58823/hls/33/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="IPTV",山东卫视
-http://139.227.21.22:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="IPTV",山东卫视
-http://223.78.65.165:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",山西卫视
-http://120.48.231.201:58823/hls/39/index.m3u8
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",山西卫视
-http://183.184.48.126:9003/hls/17/index.m3u8
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",山西卫视
-http://139.227.21.22:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",山西卫视
-http://223.78.65.165:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="IPTV",广东卫视
-http://120.48.231.201:58823/hls/27/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="IPTV",广东卫视
-http://183.184.48.126:9003/hls/26/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="IPTV",广东卫视
-http://139.227.21.22:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="IPTV",广东卫视
-http://223.78.65.165:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",广西卫视
-http://120.48.231.201:58823/hls/29/index.m3u8
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",广西卫视
-http://39.150.98.32:37799/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",广西卫视
-http://139.227.21.22:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",广西卫视
-http://223.78.65.165:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",江苏卫视
-http://192.168.68.21:8123/PLTV/6e45417dd5c3eb48246e40d1027432ad
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",江苏卫视
-http://120.48.231.201:58823/hls/37/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",江苏卫视
-http://183.184.48.126:9003/hls/35/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",江苏卫视
-http://139.227.21.22:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",江苏卫视
-http://223.78.65.165:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",江西卫视
-http://120.48.231.201:58823/hls/41/index.m3u8
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",江西卫视
-http://183.184.48.126:9003/hls/36/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="IPTV",河北4K
-https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",河北卫视
-http://120.48.231.201:58823/hls/38/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",河北卫视
-http://183.184.48.126:9003/hls/29/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",河北卫视
-http://139.227.21.22:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",河北卫视
-http://223.78.65.165:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",河南卫视
-http://120.48.231.201:58823/hls/42/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",河南卫视
-http://183.184.48.126:9003/hls/30/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",河南卫视
-http://223.78.65.165:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",浙江卫视
-http://192.168.68.21:8123/PLTV/cf670b212ec58b8f10016792e0d9fee0
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",浙江卫视
-http://120.48.231.201:58823/hls/30/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",浙江卫视
-http://183.184.48.126:9003/hls/28/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",浙江卫视
-http://39.150.98.32:37799/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",浙江卫视
-http://139.227.21.22:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",浙江卫视
-http://223.78.65.165:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="IPTV",深圳卫视
-http://223.78.65.165:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="IPTV",深圳卫视
-http://139.227.21.22:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",湖北卫视
-http://120.48.231.201:58823/hls/46/index.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",湖北卫视
-http://139.227.21.22:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",湖北卫视
-http://223.78.65.165:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",湖南卫视
-http://192.168.68.21:8123/PLTV/4619841787acc9819cd166d32bbda8de
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",湖南卫视
-http://139.227.21.22:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",湖南卫视
-http://223.78.65.165:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",东南卫视
-http://223.78.65.165:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",东南卫视
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV17.png" group-title="IPTV",CCTV17
+http://39.150.98.32:37799/tsfile/live/1038_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CGTN.png" group-title="IPTV",CGTN
+http://139.227.21.22:9901/tsfile/live/0139_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",东南卫视
+http://223.78.65.165:9901/tsfile/live/0137_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",东南卫视
 http://192.168.68.21:1111/849116810
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",东南卫视
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",东南卫视
 http://120.48.231.201:58823/hls/35/index.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="IPTV",贵州卫视
-http://223.78.65.165:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="IPTV",辽宁卫视
-http://120.48.231.201:58823/hls/43/index.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="IPTV",辽宁卫视
-http://39.150.98.32:37799/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="IPTV",辽宁卫视
-http://139.227.21.22:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="IPTV",辽宁卫视
-http://223.78.65.165:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="IPTV",重庆卫视
-http://120.48.231.201:58823/hls/31/index.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="IPTV",重庆卫视
-http://183.184.48.126:9003/hls/22/index.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",陕西卫视
-http://192.168.68.21:1111/738910838
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",陕西卫视
-http://39.150.98.32:37799/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",陕西卫视
-http://139.227.21.22:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",陕西卫视
-http://223.78.65.165:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",黑龙江卫视
-http://120.48.231.201:58823/hls/34/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",黑龙江卫视
-http://223.78.65.165:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="BRTVKAKU少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/BRTVKAKU%E5%B0%91%E5%84%BF.png" group-title="IPTV",BRTVKAKU少儿
-http://120.48.231.201:58823/hls/24/index.m3u8
-#EXTINF:-1 tvg-name="BRTVT体育休闲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/BRTVT%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2.png" group-title="IPTV",BRTVT体育休闲
-http://120.48.231.201:58823/hls/22/index.m3u8
-#EXTINF:-1 tvg-name="BRTV北京" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/BRTV%E5%8C%97%E4%BA%AC.png" group-title="IPTV",BRTV北京
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="IPTV",东方卫视
+http://192.168.68.21:8123/PLTV/67ff9c6f7f7046cdd5d32677b3eeb1b7
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="IPTV",东方卫视
+http://120.48.231.201:58823/hls/36/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="IPTV",东方卫视
+http://183.184.48.126:9003/hls/23/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="IPTV",东方卫视
+http://139.227.21.22:9901/tsfile/live/0107_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="IPTV",东方卫视
+http://223.78.65.165:9901/tsfile/live/1001_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",云南卫视
+http://120.48.231.201:58823/hls/25/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",云南卫视
+http://39.150.98.32:37799/tsfile/live/0119_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",云南卫视
+http://139.227.21.22:9901/tsfile/live/0119_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",云南卫视
+http://223.78.65.165:9901/tsfile/live/0119_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png" group-title="IPTV",内蒙古卫视
+http://182.140.125.47:808/hls/51/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png" group-title="IPTV",内蒙古卫视
+http://223.78.65.165:9901/tsfile/live/0109_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="IPTV",北京卫视
+http://192.168.68.21:8123/PLTV/e3b9506d6ec4705f300c765fea04d78a
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="IPTV",北京卫视
 http://120.48.231.201:58823/hls/16/index.m3u8
-#EXTINF:-1 tvg-name="BRTV影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/BRTV%E5%BD%B1%E8%A7%86.png" group-title="IPTV",BRTV影视
-http://120.48.231.201:58823/hls/19/index.m3u8
-#EXTINF:-1 tvg-name="BRTV文艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/BRTV%E6%96%87%E8%89%BA.png" group-title="IPTV",BRTV文艺
-http://120.48.231.201:58823/hls/17/index.m3u8
-#EXTINF:-1 tvg-name="BRTV新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/BRTV%E6%96%B0%E9%97%BB.png" group-title="IPTV",BRTV新闻
-http://120.48.231.201:58823/hls/23/index.m3u8
-#EXTINF:-1 tvg-name="BRTV生活" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/BRTV%E7%94%9F%E6%B4%BB.png" group-title="IPTV",BRTV生活
-http://120.48.231.201:58823/hls/21/index.m3u8
-#EXTINF:-1 tvg-name="BRTV科教" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/BRTV%E7%A7%91%E6%95%99.png" group-title="IPTV",BRTV科教
-http://120.48.231.201:58823/hls/18/index.m3u8
-#EXTINF:-1 tvg-name="BRTV财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/BRTV%E8%B4%A2%E7%BB%8F.png" group-title="IPTV",BRTV财经
-http://120.48.231.201:58823/hls/20/index.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CGTN.png" group-title="IPTV",CGTN
-http://139.227.21.22:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CNBC.png" group-title="IPTV",CNBC
-http://120.48.231.201:58823/hls/54/index.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/CNN.png" group-title="IPTV",CNN
-http://120.48.231.201:58823/hls/53/index.m3u8
-#EXTINF:-1 tvg-name="NHK" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/NHK.png" group-title="IPTV",NHK
-http://120.48.231.201:58823/hls/58/index.m3u8
-#EXTINF:-1 tvg-name="QTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/QTV1.png" group-title="IPTV",QTV1
-http://223.78.65.165:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="QTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/QTV2.png" group-title="IPTV",QTV2
-http://223.78.65.165:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="QTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/QTV3.png" group-title="IPTV",QTV3
-http://223.78.65.165:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="QTV4" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/QTV4.png" group-title="IPTV",QTV4
-http://223.78.65.165:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/TVB%E6%98%9F%E6%B2%B3.png" group-title="IPTV",TVB星河
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="IPTV",北京卫视
+http://183.184.48.126:9003/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",吉林卫视
+http://120.48.231.201:58823/hls/32/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",吉林卫视
+http://139.227.21.22:9901/tsfile/live/0116_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="IPTV",四川卫视
+http://192.168.68.21:8123/PLTV/3ffa81c994eb3330fde7f9f177c0386a
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="IPTV",四川卫视
+http://120.48.231.201:58823/hls/45/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="IPTV",四川卫视
+http://183.184.48.126:9003/hls/38/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="IPTV",四川卫视
+http://139.227.21.22:9901/tsfile/live/0123_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86.png" group-title="IPTV",大湾区卫视
+http://223.78.65.165:9901/tsfile/live/1011_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="IPTV",天津卫视
+http://120.48.231.201:58823/hls/40/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="IPTV",天津卫视
+http://223.78.65.165:9901/tsfile/live/0135_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",宁夏卫视
+http://120.48.231.201:58823/hls/26/index.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",宁夏卫视
+http://183.184.48.126:9003/hls/39/index.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",宁夏卫视
+http://223.78.65.165:9901/tsfile/live/0112_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="IPTV",安徽卫视
+http://120.48.231.201:58823/hls/28/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="IPTV",安徽卫视
+http://139.227.21.22:9901/tsfile/live/0130_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="IPTV",安徽卫视
+http://223.78.65.165:9901/tsfile/live/0130_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="IPTV",山东卫视
+http://192.168.68.21:8123/PLTV/1e3d93b94d53f35a12b66a44d4f0bd29
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="IPTV",山东卫视
+http://120.48.231.201:58823/hls/33/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="IPTV",山东卫视
+http://139.227.21.22:9901/tsfile/live/0131_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="IPTV",山东卫视
+http://223.78.65.165:9901/tsfile/live/0131_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="IPTV",山东卫视
+http://223.78.65.165:9901/tsfile/live/1002_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",山西卫视
+http://120.48.231.201:58823/hls/39/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",山西卫视
+http://183.184.48.126:9003/hls/17/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",山西卫视
+http://139.227.21.22:9901/tsfile/live/0118_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",山西卫视
+http://223.78.65.165:9901/tsfile/live/0118_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="IPTV",广东卫视
+http://120.48.231.201:58823/hls/27/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="IPTV",广东卫视
+http://183.184.48.126:9003/hls/26/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="IPTV",广东卫视
+http://139.227.21.22:9901/tsfile/live/0125_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="IPTV",广东卫视
+http://223.78.65.165:9901/tsfile/live/0125_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",广西卫视
+http://120.48.231.201:58823/hls/29/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",广西卫视
+http://39.150.98.32:37799/tsfile/live/0113_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",广西卫视
+http://139.227.21.22:9901/tsfile/live/0113_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",广西卫视
+http://223.78.65.165:9901/tsfile/live/0113_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",江苏卫视
+http://192.168.68.21:8123/PLTV/6e45417dd5c3eb48246e40d1027432ad
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",江苏卫视
+http://120.48.231.201:58823/hls/37/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",江苏卫视
+http://183.184.48.126:9003/hls/35/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",江苏卫视
+http://139.227.21.22:9901/tsfile/live/0127_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",江苏卫视
+http://223.78.65.165:9901/tsfile/live/0017_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",江西卫视
+http://120.48.231.201:58823/hls/41/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",江西卫视
+http://183.184.48.126:9003/hls/36/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",河北卫视
+https://event.pull.hebtv.com:443/live/live101.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",河北卫视
+http://120.48.231.201:58823/hls/38/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",河北卫视
+http://183.184.48.126:9003/hls/29/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",河北卫视
+http://139.227.21.22:9901/tsfile/live/0117_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",河北卫视
+http://223.78.65.165:9901/tsfile/live/0117_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",河南卫视
+http://120.48.231.201:58823/hls/42/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",河南卫视
+http://183.184.48.126:9003/hls/30/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",河南卫视
+http://223.78.65.165:9901/tsfile/live/0139_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",浙江卫视
+http://192.168.68.21:8123/PLTV/cf670b212ec58b8f10016792e0d9fee0
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",浙江卫视
+http://120.48.231.201:58823/hls/30/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",浙江卫视
+http://183.184.48.126:9003/hls/28/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",浙江卫视
+http://39.150.98.32:37799/tsfile/live/0124_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",浙江卫视
+http://139.227.21.22:9901/tsfile/live/0124_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",浙江卫视
+http://223.78.65.165:9901/tsfile/live/0018_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="IPTV",深圳卫视
+http://223.78.65.165:9901/tsfile/live/0019_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="IPTV",深圳卫视
+http://139.227.21.22:9901/tsfile/live/0126_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",湖北卫视
+http://120.48.231.201:58823/hls/46/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",湖北卫视
+http://139.227.21.22:9901/tsfile/live/0132_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",湖北卫视
+http://223.78.65.165:9901/tsfile/live/0132_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",湖南卫视
+http://192.168.68.21:8123/PLTV/4619841787acc9819cd166d32bbda8de
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",湖南卫视
+http://139.227.21.22:9901/tsfile/live/0128_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="IPTV",湖南卫视
+http://223.78.65.165:9901/tsfile/live/0016_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="IPTV",贵州卫视
+http://223.78.65.165:9901/tsfile/live/0120_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="IPTV",辽宁卫视
+http://120.48.231.201:58823/hls/43/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="IPTV",辽宁卫视
+http://39.150.98.32:37799/tsfile/live/0121_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="IPTV",辽宁卫视
+http://139.227.21.22:9901/tsfile/live/0121_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="IPTV",辽宁卫视
+http://223.78.65.165:9901/tsfile/live/0121_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="IPTV",重庆卫视
+http://120.48.231.201:58823/hls/31/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="IPTV",重庆卫视
+http://183.184.48.126:9003/hls/22/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",陕西卫视
+http://192.168.68.21:1111/738910838
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",陕西卫视
+http://39.150.98.32:37799/tsfile/live/0136_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",陕西卫视
+http://139.227.21.22:9901/tsfile/live/0136_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="IPTV",陕西卫视
+http://223.78.65.165:9901/tsfile/live/0136_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",黑龙江卫视
+http://120.48.231.201:58823/hls/34/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="IPTV",黑龙江卫视
+http://223.78.65.165:9901/tsfile/live/0143_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="南国都市4K" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8D%97%E5%9B%BD%E9%83%BD%E5%B8%824K.png" group-title="IPTV",南国都市4K
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&amp;txTime=1903e7b17de
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="IPTV",CHC影迷电影
+http://39.150.98.32:37799/tsfile/live/1029_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png" group-title="IPTV",法治天地
+http://223.78.65.165:9901/tsfile/live/1017_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/TVB%E6%98%9F%E6%B2%B3.png" group-title="IPTV",TVB星河
 http://120.48.231.201:58823/hls/59/index.m3u8
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2.png" group-title="IPTV",五星体育
-http://139.227.21.22:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="全纪实" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%85%A8%E7%BA%AA%E5%AE%9E.png" group-title="IPTV",全纪实
-http://223.78.65.165:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%87%A4%E5%87%B0%E7%94%B5%E5%BD%B1.png" group-title="IPTV",凤凰电影
-http://120.48.231.201:58823/hls/50/index.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="IPTV",凤凰资讯
-http://120.48.231.201:58823/hls/48/index.m3u8
-#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86.png" group-title="IPTV",凤凰卫视
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="IPTV",凤凰中文
 http://120.48.231.201:58823/hls/47/index.m3u8
-#EXTINF:-1 tvg-name="动作影院" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%8A%A8%E4%BD%9C%E5%BD%B1%E9%99%A2.png" group-title="IPTV",动作影院
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="IPTV",凤凰资讯
+http://120.48.231.201:58823/hls/48/index.m3u8
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2.png" group-title="IPTV",五星体育
+http://139.227.21.22:9901/tsfile/live/1010_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F.png" group-title="IPTV",第一财经
+http://139.227.21.22:9901/tsfile/live/1009_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="IPTV",广东体育
+http://223.78.65.165:9901/tsfile/live/1005_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B9%BF%E4%B8%9C%E6%B0%91%E7%94%9F.png" group-title="IPTV",广东民生
+http://223.78.65.165:9901/tsfile/live/1006_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="4K电影" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/4K%E7%94%B5%E5%BD%B1.png" group-title="IPTV",4K电影
+http://39.150.98.32:37799/tsfile/live/1030_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="BRTVKAKU少儿" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/BRTVKAKU%E5%B0%91%E5%84%BF.png" group-title="IPTV",BRTVKAKU少儿
+http://120.48.231.201:58823/hls/24/index.m3u8
+#EXTINF:-1 tvg-name="BRTVT体育休闲" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/BRTVT%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2.png" group-title="IPTV",BRTVT体育休闲
+http://120.48.231.201:58823/hls/22/index.m3u8
+#EXTINF:-1 tvg-name="BRTV影视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/BRTV%E5%BD%B1%E8%A7%86.png" group-title="IPTV",BRTV影视
+http://120.48.231.201:58823/hls/19/index.m3u8
+#EXTINF:-1 tvg-name="BRTV文艺" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/BRTV%E6%96%87%E8%89%BA.png" group-title="IPTV",BRTV文艺
+http://120.48.231.201:58823/hls/17/index.m3u8
+#EXTINF:-1 tvg-name="BRTV财经" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/BRTV%E8%B4%A2%E7%BB%8F.png" group-title="IPTV",BRTV财经
+http://120.48.231.201:58823/hls/20/index.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CNBC.png" group-title="IPTV",CNBC
+http://120.48.231.201:58823/hls/54/index.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CNN.png" group-title="IPTV",CNN
+http://120.48.231.201:58823/hls/53/index.m3u8
+#EXTINF:-1 tvg-name="NHK" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/NHK.png" group-title="IPTV",NHK
+http://120.48.231.201:58823/hls/58/index.m3u8
+#EXTINF:-1 tvg-name="QTV1" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/QTV1.png" group-title="IPTV",QTV1
+http://223.78.65.165:9901/tsfile/live/1010_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="QTV3" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/QTV3.png" group-title="IPTV",QTV3
+http://223.78.65.165:9901/tsfile/live/1012_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="QTV4" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/QTV4.png" group-title="IPTV",QTV4
+http://223.78.65.165:9901/tsfile/live/1013_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="全纪实" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%85%A8%E7%BA%AA%E5%AE%9E.png" group-title="IPTV",全纪实
+http://223.78.65.165:9901/tsfile/live/1020_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E7%94%B5%E5%BD%B1.png" group-title="IPTV",凤凰电影
+http://120.48.231.201:58823/hls/50/index.m3u8
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="IPTV",动作电影
 http://120.48.231.201:58823/hls/55/index.m3u8
-#EXTINF:-1 tvg-name="影迷电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/影迷电影.png" group-title="IPTV",影迷电影
-http://39.150.98.32:37799/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="4K电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/4K电影.png" group-title="IPTV",4K电影
-http://39.150.98.32:37799/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="IPTV",经典电影
-http://39.150.98.32:37799/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E8%B0%8D%E6%88%98%E5%89%A7%E5%9C%BA.png" group-title="IPTV",谍战剧场
-http://39.150.98.32:37799/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="国家地理" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86.png" group-title="IPTV",国家地理
+#EXTINF:-1 tvg-name="卫视体育" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8D%AB%E8%A7%86%E4%BD%93%E8%82%B2.png" group-title="IPTV",卫视体育
+http://120.48.231.201:58823/hls/62/index.m3u8
+#EXTINF:-1 tvg-name="卫视体育2" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8D%AB%E8%A7%86%E4%BD%93%E8%82%B22.png" group-title="IPTV",卫视体育2
+http://120.48.231.201:58823/hls/63/index.m3u8
+#EXTINF:-1 tvg-name="国家地理" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%9B%BD%E5%AE%B6%E5%9C%B0%E7%90%86.png" group-title="IPTV",国家地理
 http://120.48.231.201:58823/hls/56/index.m3u8
-#EXTINF:-1 tvg-name="国际电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1.png" group-title="IPTV",国际电影
+#EXTINF:-1 tvg-name="国际电影" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1.png" group-title="IPTV",国际电影
 http://120.48.231.201:58823/hls/52/index.m3u8
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B1%B1%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="IPTV",山东体育
-http://223.78.65.165:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="齐鲁卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%BD%90%E9%B2%81%E5%8D%AB%E8%A7%86.png" group-title="IPTV",齐鲁卫视
-http://223.78.65.165:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东公共" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B1%B1%E4%B8%9C%E5%85%AC%E5%85%B1.png" group-title="IPTV",山东公共
-http://223.78.65.165:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B1%B1%E4%B8%9C%E5%86%9C%E7%A7%91.png" group-title="IPTV",山东农科
-http://223.78.65.165:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B1%B1%E4%B8%9C%E5%B0%91%E5%84%BF.png" group-title="IPTV",山东少儿
-http://223.78.65.165:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B1%B1%E4%B8%9C%E5%BD%B1%E8%A7%86.png" group-title="IPTV",山东影视
-http://223.78.65.165:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png" group-title="IPTV",山东教育
-http://223.78.65.165:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B1%B1%E4%B8%9C%E7%94%9F%E6%B4%BB.png" group-title="IPTV",山东生活
-http://223.78.65.165:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E5%B1%B1%E4%B8%9C%E7%BB%BC%E8%89%BA.png" group-title="IPTV",山东综艺
-http://223.78.65.165:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="探索发现" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%8E%A2%E7%B4%A2%E5%8F%91%E7%8E%B0.png" group-title="IPTV",探索发现
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B1%B1%E4%B8%9C%E5%86%9C%E7%A7%91.png" group-title="IPTV",山东农科
+http://223.78.65.165:9901/tsfile/live/1007_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png" group-title="IPTV",山东教育
+http://223.78.65.165:9901/tsfile/live/1009_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B1%B1%E4%B8%9C%E7%94%9F%E6%B4%BB.png" group-title="IPTV",山东生活
+http://223.78.65.165:9901/tsfile/live/1003_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B1%B1%E4%B8%9C%E7%BB%BC%E8%89%BA.png" group-title="IPTV",山东综艺
+http://223.78.65.165:9901/tsfile/live/1004_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="探索发现" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%8E%A2%E7%B4%A2%E5%8F%91%E7%8E%B0.png" group-title="IPTV",探索发现
 http://120.48.231.201:58823/hls/57/index.m3u8
-#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="IPTV",新闻综合
-http://139.227.21.22:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png" group-title="IPTV",法治天地
-http://223.78.65.165:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="票房影院HBO" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E7%A5%A8%E6%88%BF%E5%BD%B1%E9%99%A2HBO.png" group-title="IPTV",票房影院HBO
+#EXTINF:-1 tvg-name="票房影院HBO" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E7%A5%A8%E6%88%BF%E5%BD%B1%E9%99%A2HBO.png" group-title="IPTV",票房影院HBO
 http://120.48.231.201:58823/hls/51/index.m3u8
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F.png" group-title="IPTV",第一财经
-http://139.227.21.22:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="IPTV",经典电影
+http://39.150.98.32:37799/tsfile/live/1016_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="苏州4K" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E8%8B%8F%E5%B7%9E4K.png" group-title="IPTV",苏州4K
+https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+#EXTINF:-1 tvg-name="齐鲁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%BD%90%E9%B2%81%E5%8D%AB%E8%A7%86.png" group-title="IPTV",齐鲁卫视
+http://223.78.65.165:9901/tsfile/live/1000_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="重庆新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%87%8D%E5%BA%86%E6%96%B0%E9%97%BB.png" group-title="IPTV",重庆新闻
+http://120.48.231.201:58823/hls/23/index.m3u8
+#EXTINF:-1 tvg-name="重庆生活" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%87%8D%E5%BA%86%E7%94%9F%E6%B4%BB.png" group-title="IPTV",重庆生活
+http://120.48.231.201:58823/hls/21/index.m3u8
+#EXTINF:-1 tvg-name="重庆科教" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E9%87%8D%E5%BA%86%E7%A7%91%E6%95%99.png" group-title="IPTV",重庆科教
+http://120.48.231.201:58823/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="谍战剧场" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E8%B0%8D%E6%88%98%E5%89%A7%E5%9C%BA.png" group-title="IPTV",谍战剧场
+http://39.150.98.32:37799/tsfile/live/1023_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%B1%B1%E4%B8%9C%E5%B0%91%E5%84%BF.png" group-title="IPTV",山东少儿
+http://223.78.65.165:9901/tsfile/live/1008_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="哈尔滨综合" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%93%88%E5%B0%94%E6%BB%A8%E7%BB%BC%E5%90%88.png" group-title="IPTV",哈尔滨综合
+http://139.227.21.22:9901/tsfile/live/1005_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="世界杯4K回放-乌兹别克斯坦vs哥伦比亚_2026-06-18 09:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6vs%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A_2026-06-18%2009%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-乌兹别克斯坦vs哥伦比亚_2026-06-18 09:30:00
+http://82.156.243.185:34567/xhs/4460973
+#EXTINF:-1 tvg-name="世界杯4K回放-乌拉圭vs佛得角_2026-06-22 05:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E4%B9%8C%E6%8B%89%E5%9C%ADvs%E4%BD%9B%E5%BE%97%E8%A7%92_2026-06-22%2005%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-乌拉圭vs佛得角_2026-06-22 05:30:00
+http://82.156.243.185:34567/xhs/4460965
+#EXTINF:-1 tvg-name="世界杯4K回放-乌拉圭vs西班牙_2026-06-27 07:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E4%B9%8C%E6%8B%89%E5%9C%ADvs%E8%A5%BF%E7%8F%AD%E7%89%99_2026-06-27%2007%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-乌拉圭vs西班牙_2026-06-27 07:30:00
+http://82.156.243.185:34567/xhs/4460925
+#EXTINF:-1 tvg-name="世界杯4K回放-伊拉克vs挪威_2026-06-17 05:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E4%BC%8A%E6%8B%89%E5%85%8Bvs%E6%8C%AA%E5%A8%81_2026-06-17%2005%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-伊拉克vs挪威_2026-06-17 05:30:00
+http://82.156.243.185:34567/xhs/4460967
+#EXTINF:-1 tvg-name="世界杯4K回放-伊朗vs新西兰_2026-06-16 08:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E4%BC%8A%E6%9C%97vs%E6%96%B0%E8%A5%BF%E5%85%B0_2026-06-16%2008%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-伊朗vs新西兰_2026-06-16 08:30:00
+http://82.156.243.185:34567/xhs/4460956
+#EXTINF:-1 tvg-name="世界杯4K回放-佛得角vs沙特阿拉伯_2026-06-27 07:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E4%BD%9B%E5%BE%97%E8%A7%92vs%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF_2026-06-27%2007%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-佛得角vs沙特阿拉伯_2026-06-27 07:30:00
+http://82.156.243.185:34567/xhs/4460966
+#EXTINF:-1 tvg-name="世界杯4K回放-克罗地亚vs加纳_2026-06-28 04:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9Avs%E5%8A%A0%E7%BA%B3_2026-06-28%2004%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-克罗地亚vs加纳_2026-06-28 04:30:00
+http://82.156.243.185:34567/xhs/4460978
+#EXTINF:-1 tvg-name="世界杯4K回放-刚果民主共和国vs乌兹别克斯坦_2026-06-28 07:15:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%88%9A%E6%9E%9C%E6%B0%91%E4%B8%BB%E5%85%B1%E5%92%8C%E5%9B%BDvs%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6_2026-06-28%2007%3A15%3A00.png" group-title="4K世界杯回放",世界杯4K回放-刚果民主共和国vs乌兹别克斯坦_2026-06-28 07:15:00
+http://82.156.243.185:34567/xhs/4460975
+#EXTINF:-1 tvg-name="世界杯4K回放-加拿大vs卡塔尔_2026-06-19 05:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%8A%A0%E6%8B%BF%E5%A4%A7vs%E5%8D%A1%E5%A1%94%E5%B0%94_2026-06-19%2005%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-加拿大vs卡塔尔_2026-06-19 05:30:00
+http://82.156.243.185:34567/xhs/4459825
+#EXTINF:-1 tvg-name="世界杯4K回放-加拿大vs波黑_2026-06-13 01:25:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%8A%A0%E6%8B%BF%E5%A4%A7vs%E6%B3%A2%E9%BB%91_2026-06-13%2001%3A25%3A00.png" group-title="4K世界杯回放",世界杯4K回放-加拿大vs波黑_2026-06-13 01:25:00
+http://82.156.243.185:34567/xhs/4459824
+#EXTINF:-1 tvg-name="世界杯4K回放-加纳vs巴拿马_2026-06-18 06:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%8A%A0%E7%BA%B3vs%E5%B7%B4%E6%8B%BF%E9%A9%AC_2026-06-18%2006%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-加纳vs巴拿马_2026-06-18 06:30:00
+http://82.156.243.185:34567/xhs/4460976
+#EXTINF:-1 tvg-name="世界杯4K回放-南非vs加拿大_2026-06-29 02:00:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%8D%97%E9%9D%9Evs%E5%8A%A0%E6%8B%BF%E5%A4%A7_2026-06-29%2002%3A00%3A00.png" group-title="4K世界杯回放",世界杯4K回放-南非vs加拿大_2026-06-29 02:00:00
+http://82.156.243.185:34567/xhs/4459717
+#EXTINF:-1 tvg-name="世界杯4K回放-南非vs韩国_2026-06-25 08:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%8D%97%E9%9D%9Evs%E9%9F%A9%E5%9B%BD_2026-06-25%2008%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-南非vs韩国_2026-06-25 08:30:00
+http://82.156.243.185:34567/xhs/4460940
+#EXTINF:-1 tvg-name="世界杯4K回放-卡塔尔vs瑞士_2026-06-14 02:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%8D%A1%E5%A1%94%E5%B0%94vs%E7%91%9E%E5%A3%AB_2026-06-14%2002%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-卡塔尔vs瑞士_2026-06-14 02:30:00
+http://82.156.243.185:34567/xhs/4460941
+#EXTINF:-1 tvg-name="世界杯4K回放-厄瓜多尔vs库拉索_2026-06-21 07:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94vs%E5%BA%93%E6%8B%89%E7%B4%A2_2026-06-21%2007%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-厄瓜多尔vs库拉索_2026-06-21 07:30:00
+http://82.156.243.185:34567/xhs/4460951
+#EXTINF:-1 tvg-name="世界杯4K回放-厄瓜多尔vs德国_2026-06-26 03:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94vs%E5%BE%B7%E5%9B%BD_2026-06-26%2003%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-厄瓜多尔vs德国_2026-06-26 03:30:00
+http://82.156.243.185:34567/xhs/4460916
+#EXTINF:-1 tvg-name="世界杯4K回放-哥伦比亚vs刚果民主共和国_2026-06-24 09:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9Avs%E5%88%9A%E6%9E%9C%E6%B0%91%E4%B8%BB%E5%85%B1%E5%92%8C%E5%9B%BD_2026-06-24%2009%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-哥伦比亚vs刚果民主共和国_2026-06-24 09:30:00
+http://82.156.243.185:34567/xhs/4460974
+#EXTINF:-1 tvg-name="世界杯4K回放-哥伦比亚vs葡萄牙_2026-06-28 07:15:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9Avs%E8%91%A1%E8%90%84%E7%89%99_2026-06-28%2007%3A15%3A00.png" group-title="4K世界杯回放",世界杯4K回放-哥伦比亚vs葡萄牙_2026-06-28 07:15:00
+http://82.156.243.185:34567/xhs/4460934
+#EXTINF:-1 tvg-name="世界杯4K回放-土耳其vs巴拉圭_2026-06-20 10:45:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%9C%9F%E8%80%B3%E5%85%B6vs%E5%B7%B4%E6%8B%89%E5%9C%AD_2026-06-20%2010%3A45%3A00.png" group-title="4K世界杯回放",世界杯4K回放-土耳其vs巴拉圭_2026-06-20 10:45:00
+http://82.156.243.185:34567/xhs/4460948
+#EXTINF:-1 tvg-name="世界杯4K回放-土耳其vs美国_2026-06-26 09:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%9C%9F%E8%80%B3%E5%85%B6vs%E7%BE%8E%E5%9B%BD_2026-06-26%2009%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-土耳其vs美国_2026-06-26 09:30:00
+http://82.156.243.185:34567/xhs/4459829
+#EXTINF:-1 tvg-name="世界杯4K回放-埃及vs伊朗_2026-06-27 10:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%9F%83%E5%8F%8Avs%E4%BC%8A%E6%9C%97_2026-06-27%2010%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-埃及vs伊朗_2026-06-27 10:30:00
+http://82.156.243.185:34567/xhs/4460958
+#EXTINF:-1 tvg-name="世界杯4K回放-塞内加尔vs伊拉克_2026-06-27 02:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94vs%E4%BC%8A%E6%8B%89%E5%85%8B_2026-06-27%2002%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-塞内加尔vs伊拉克_2026-06-27 02:30:00
+http://82.156.243.185:34567/xhs/4460969
+#EXTINF:-1 tvg-name="世界杯4K回放-墨西哥vs厄瓜多尔_2026-07-01 08:50:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%A2%A8%E8%A5%BF%E5%93%A5vs%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94_2026-07-01%2008%3A50%3A00.png" group-title="4K世界杯回放",世界杯4K回放-墨西哥vs厄瓜多尔_2026-07-01 08:50:00
+http://82.156.243.185:34567/xhs/4459723
+#EXTINF:-1 tvg-name="世界杯4K回放-墨西哥vs韩国_2026-06-19 08:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%A2%A8%E8%A5%BF%E5%93%A5vs%E9%9F%A9%E5%9B%BD_2026-06-19%2008%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-墨西哥vs韩国_2026-06-19 08:30:00
+http://82.156.243.185:34567/xhs/4459821
+#EXTINF:-1 tvg-name="世界杯4K回放-奥地利vs约旦_2026-06-17 11:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%A5%A5%E5%9C%B0%E5%88%A9vs%E7%BA%A6%E6%97%A6_2026-06-17%2011%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-奥地利vs约旦_2026-06-17 11:30:00
+http://82.156.243.185:34567/xhs/4460970
+#EXTINF:-1 tvg-name="世界杯4K回放-巴拉圭vs澳大利亚_2026-06-26 09:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%B7%B4%E6%8B%89%E5%9C%ADvs%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_2026-06-26%2009%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-巴拉圭vs澳大利亚_2026-06-26 09:30:00
+http://82.156.243.185:34567/xhs/4460949
+#EXTINF:-1 tvg-name="世界杯4K回放-巴拿马vs克罗地亚_2026-06-24 06:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%B7%B4%E6%8B%BF%E9%A9%ACvs%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A_2026-06-24%2006%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-巴拿马vs克罗地亚_2026-06-24 06:30:00
+http://82.156.243.185:34567/xhs/4460977
+#EXTINF:-1 tvg-name="世界杯4K回放-巴拿马vs英格兰_2026-06-28 04:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%B7%B4%E6%8B%BF%E9%A9%ACvs%E8%8B%B1%E6%A0%BC%E5%85%B0_2026-06-28%2004%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-巴拿马vs英格兰_2026-06-28 04:30:00
+http://82.156.243.185:34567/xhs/4460937
+#EXTINF:-1 tvg-name="世界杯4K回放-巴西vs摩洛哥_2026-06-14 05:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%B7%B4%E8%A5%BFvs%E6%91%A9%E6%B4%9B%E5%93%A5_2026-06-14%2005%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-巴西vs摩洛哥_2026-06-14 05:30:00
+http://82.156.243.185:34567/xhs/4460910
+#EXTINF:-1 tvg-name="世界杯4K回放-巴西vs日本_2026-06-30 00:00:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%B7%B4%E8%A5%BFvs%E6%97%A5%E6%9C%AC_2026-06-30%2000%3A00%3A00.png" group-title="4K世界杯回放",世界杯4K回放-巴西vs日本_2026-06-30 00:00:00
+http://82.156.243.185:34567/xhs/4459720
+#EXTINF:-1 tvg-name="世界杯4K回放-巴西vs海地_2026-06-20 08:10:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%B7%B4%E8%A5%BFvs%E6%B5%B7%E5%9C%B0_2026-06-20%2008%3A10%3A00.png" group-title="4K世界杯回放",世界杯4K回放-巴西vs海地_2026-06-20 08:10:00
+http://82.156.243.185:34567/xhs/4460911
+#EXTINF:-1 tvg-name="世界杯4K回放-库拉索vs科特迪瓦_2026-06-26 03:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%BA%93%E6%8B%89%E7%B4%A2vs%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6_2026-06-26%2003%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-库拉索vs科特迪瓦_2026-06-26 03:30:00
+http://82.156.243.185:34567/xhs/4460952
+#EXTINF:-1 tvg-name="世界杯4K回放-开幕式&amp;揭幕战_2026-06-12 01:25:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%BC%80%E5%B9%95%E5%BC%8F%26%E6%8F%AD%E5%B9%95%E6%88%98_2026-06-12%2001%3A25%3A00.png" group-title="4K世界杯回放",世界杯4K回放-开幕式&amp;揭幕战_2026-06-12 01:25:00
+http://82.156.243.185:34567/xhs/4459820
+#EXTINF:-1 tvg-name="世界杯4K回放-德国vs巴拉圭_2026-06-30 03:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%BE%B7%E5%9B%BDvs%E5%B7%B4%E6%8B%89%E5%9C%AD_2026-06-30%2003%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-德国vs巴拉圭_2026-06-30 03:30:00
+http://82.156.243.185:34567/xhs/4459718
+#EXTINF:-1 tvg-name="世界杯4K回放-德国vs库拉索_2026-06-15 00:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%BE%B7%E5%9B%BDvs%E5%BA%93%E6%8B%89%E7%B4%A2_2026-06-15%2000%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-德国vs库拉索_2026-06-15 00:30:00
+http://82.156.243.185:34567/xhs/4460914
+#EXTINF:-1 tvg-name="世界杯4K回放-德国vs科特迪瓦_2026-06-21 03:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E5%BE%B7%E5%9B%BDvs%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6_2026-06-21%2003%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-德国vs科特迪瓦_2026-06-21 03:30:00
+http://82.156.243.185:34567/xhs/4460915
+#EXTINF:-1 tvg-name="世界杯4K回放-挪威vs塞内加尔_2026-06-23 07:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E6%8C%AA%E5%A8%81vs%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94_2026-06-23%2007%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-挪威vs塞内加尔_2026-06-23 07:30:00
+http://82.156.243.185:34567/xhs/4460968
+#EXTINF:-1 tvg-name="世界杯4K回放-挪威vs法国_2026-06-27 02:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E6%8C%AA%E5%A8%81vs%E6%B3%95%E5%9B%BD_2026-06-27%2002%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-挪威vs法国_2026-06-27 02:30:00
+http://82.156.243.185:34567/xhs/4460928
+#EXTINF:-1 tvg-name="世界杯4K回放-捷克vs南非_2026-06-18 23:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E6%8D%B7%E5%85%8Bvs%E5%8D%97%E9%9D%9E_2026-06-18%2023%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-捷克vs南非_2026-06-18 23:30:00
+http://82.156.243.185:34567/xhs/4460939
+#EXTINF:-1 tvg-name="世界杯4K回放-捷克vs墨西哥_2026-06-25 08:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E6%8D%B7%E5%85%8Bvs%E5%A2%A8%E8%A5%BF%E5%93%A5_2026-06-25%2008%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-捷克vs墨西哥_2026-06-25 08:30:00
+http://82.156.243.185:34567/xhs/4459823
+#EXTINF:-1 tvg-name="世界杯4K回放-摩洛哥vs海地_2026-06-25 05:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E6%91%A9%E6%B4%9B%E5%93%A5vs%E6%B5%B7%E5%9C%B0_2026-06-25%2005%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-摩洛哥vs海地_2026-06-25 05:30:00
+http://82.156.243.185:34567/xhs/4460946
+#EXTINF:-1 tvg-name="世界杯4K回放-新西兰vs埃及_2026-06-22 08:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E6%96%B0%E8%A5%BF%E5%85%B0vs%E5%9F%83%E5%8F%8A_2026-06-22%2008%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-新西兰vs埃及_2026-06-22 08:30:00
+http://82.156.243.185:34567/xhs/4460957
+#EXTINF:-1 tvg-name="世界杯4K回放-新西兰vs比利时_2026-06-27 10:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E6%96%B0%E8%A5%BF%E5%85%B0vs%E6%AF%94%E5%88%A9%E6%97%B6_2026-06-27%2010%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-新西兰vs比利时_2026-06-27 10:30:00
+http://82.156.243.185:34567/xhs/4460922
+#EXTINF:-1 tvg-name="世界杯4K回放-日本vs瑞典_2026-06-26 06:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E6%97%A5%E6%9C%ACvs%E7%91%9E%E5%85%B8_2026-06-26%2006%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-日本vs瑞典_2026-06-26 06:30:00
+http://82.156.243.185:34567/xhs/4460955
+#EXTINF:-1 tvg-name="世界杯4K回放-比利时vs伊朗_2026-06-22 02:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E6%AF%94%E5%88%A9%E6%97%B6vs%E4%BC%8A%E6%9C%97_2026-06-22%2002%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-比利时vs伊朗_2026-06-22 02:30:00
+http://82.156.243.185:34567/xhs/4460921
+#EXTINF:-1 tvg-name="世界杯4K回放-比利时vs埃及_2026-06-16 02:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E6%AF%94%E5%88%A9%E6%97%B6vs%E5%9F%83%E5%8F%8A_2026-06-16%2002%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-比利时vs埃及_2026-06-16 02:30:00
+http://82.156.243.185:34567/xhs/4460920
+#EXTINF:-1 tvg-name="世界杯4K回放-比利时vs塞内加尔_2026-07-02 03:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E6%AF%94%E5%88%A9%E6%97%B6vs%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94_2026-07-02%2003%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-比利时vs塞内加尔_2026-07-02 03:30:00
+http://82.156.243.185:34567/xhs/4459726
+#EXTINF:-1 tvg-name="世界杯4K回放-沙特阿拉伯vs乌拉圭_2026-06-16 05:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AFvs%E4%B9%8C%E6%8B%89%E5%9C%AD_2026-06-16%2005%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-沙特阿拉伯vs乌拉圭_2026-06-16 05:30:00
+http://82.156.243.185:34567/xhs/4460959
+#EXTINF:-1 tvg-name="世界杯4K回放-法国vs伊拉克_2026-06-23 04:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E6%B3%95%E5%9B%BDvs%E4%BC%8A%E6%8B%89%E5%85%8B_2026-06-23%2004%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-法国vs伊拉克_2026-06-23 04:30:00
+http://82.156.243.185:34567/xhs/4460927
+#EXTINF:-1 tvg-name="世界杯4K回放-法国vs塞内加尔_2026-06-17 02:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E6%B3%95%E5%9B%BDvs%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94_2026-06-17%2002%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-法国vs塞内加尔_2026-06-17 02:30:00
+http://82.156.243.185:34567/xhs/4460926
+#EXTINF:-1 tvg-name="世界杯4K回放-法国vs瑞典_2026-07-01 04:00:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E6%B3%95%E5%9B%BDvs%E7%91%9E%E5%85%B8_2026-07-01%2004%3A00%3A00.png" group-title="4K世界杯回放",世界杯4K回放-法国vs瑞典_2026-07-01 04:00:00
+http://82.156.243.185:34567/xhs/4459721
+#EXTINF:-1 tvg-name="世界杯4K回放-波黑vs卡塔尔_2026-06-25 02:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E6%B3%A2%E9%BB%91vs%E5%8D%A1%E5%A1%94%E5%B0%94_2026-06-25%2002%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-波黑vs卡塔尔_2026-06-25 02:30:00
+http://82.156.243.185:34567/xhs/4460943
+#EXTINF:-1 tvg-name="世界杯4K回放-海地vs苏格兰_2026-06-14 08:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E6%B5%B7%E5%9C%B0vs%E8%8B%8F%E6%A0%BC%E5%85%B0_2026-06-14%2008%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-海地vs苏格兰_2026-06-14 08:30:00
+http://82.156.243.185:34567/xhs/4460944
+#EXTINF:-1 tvg-name="世界杯4K回放-澳大利亚vs土耳其_2026-06-14 11:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9Avs%E5%9C%9F%E8%80%B3%E5%85%B6_2026-06-14%2011%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-澳大利亚vs土耳其_2026-06-14 11:30:00
+http://82.156.243.185:34567/xhs/4460947
+#EXTINF:-1 tvg-name="世界杯4K回放-瑞典vs突尼斯_2026-06-15 09:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E7%91%9E%E5%85%B8vs%E7%AA%81%E5%B0%BC%E6%96%AF_2026-06-15%2009%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-瑞典vs突尼斯_2026-06-15 09:30:00
+http://82.156.243.185:34567/xhs/4460953
+#EXTINF:-1 tvg-name="世界杯4K回放-瑞士vs加拿大_2026-06-25 02:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E7%91%9E%E5%A3%ABvs%E5%8A%A0%E6%8B%BF%E5%A4%A7_2026-06-25%2002%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-瑞士vs加拿大_2026-06-25 02:30:00
+http://82.156.243.185:34567/xhs/4459826
+#EXTINF:-1 tvg-name="世界杯4K回放-瑞士vs波黑_2026-06-19 02:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E7%91%9E%E5%A3%ABvs%E6%B3%A2%E9%BB%91_2026-06-19%2002%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-瑞士vs波黑_2026-06-19 02:30:00
+http://82.156.243.185:34567/xhs/4460942
+#EXTINF:-1 tvg-name="世界杯4K回放-科特迪瓦vs厄瓜多尔_2026-06-15 06:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6vs%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94_2026-06-15%2006%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-科特迪瓦vs厄瓜多尔_2026-06-15 06:30:00
+http://82.156.243.185:34567/xhs/4460950
+#EXTINF:-1 tvg-name="世界杯4K回放-科特迪瓦vs挪威_2026-07-01 00:00:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6vs%E6%8C%AA%E5%A8%81_2026-07-01%2000%3A00%3A00.png" group-title="4K世界杯回放",世界杯4K回放-科特迪瓦vs挪威_2026-07-01 00:00:00
+http://82.156.243.185:34567/xhs/4459722
+#EXTINF:-1 tvg-name="世界杯4K回放-突尼斯vs日本_2026-06-21 11:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E7%AA%81%E5%B0%BC%E6%96%AFvs%E6%97%A5%E6%9C%AC_2026-06-21%2011%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-突尼斯vs日本_2026-06-21 11:30:00
+http://82.156.243.185:34567/xhs/4460954
+#EXTINF:-1 tvg-name="世界杯4K回放-突尼斯vs荷兰_2026-06-26 06:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E7%AA%81%E5%B0%BC%E6%96%AFvs%E8%8D%B7%E5%85%B0_2026-06-26%2006%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-突尼斯vs荷兰_2026-06-26 06:30:00
+http://82.156.243.185:34567/xhs/4460919
+#EXTINF:-1 tvg-name="世界杯4K回放-约旦vs阿尔及利亚_2026-06-23 10:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E7%BA%A6%E6%97%A6vs%E9%98%BF%E5%B0%94%E5%8F%8A%E5%88%A9%E4%BA%9A_2026-06-23%2010%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-约旦vs阿尔及利亚_2026-06-23 10:30:00
+http://82.156.243.185:34567/xhs/4460971
+#EXTINF:-1 tvg-name="世界杯4K回放-约旦vs阿根廷_2026-06-28 09:45:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E7%BA%A6%E6%97%A6vs%E9%98%BF%E6%A0%B9%E5%BB%B7_2026-06-28%2009%3A45%3A00.png" group-title="4K世界杯回放",世界杯4K回放-约旦vs阿根廷_2026-06-28 09:45:00
+http://82.156.243.185:34567/xhs/4460931
+#EXTINF:-1 tvg-name="世界杯4K回放-美国vs巴拉圭_2026-06-13 07:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E7%BE%8E%E5%9B%BDvs%E5%B7%B4%E6%8B%89%E5%9C%AD_2026-06-13%2007%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-美国vs巴拉圭_2026-06-13 07:30:00
+http://82.156.243.185:34567/xhs/4459827
+#EXTINF:-1 tvg-name="世界杯4K回放-美国vs波黑_2026-07-02 07:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E7%BE%8E%E5%9B%BDvs%E6%B3%A2%E9%BB%91_2026-07-02%2007%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-美国vs波黑_2026-07-02 07:30:00
+http://82.156.243.185:34567/xhs/4459725
+#EXTINF:-1 tvg-name="世界杯4K回放-美国vs澳大利亚_2026-06-20 02:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E7%BE%8E%E5%9B%BDvs%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A_2026-06-20%2002%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-美国vs澳大利亚_2026-06-20 02:30:00
+http://82.156.243.185:34567/xhs/4459828
+#EXTINF:-1 tvg-name="世界杯4K回放-苏格兰vs巴西_2026-06-25 05:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E8%8B%8F%E6%A0%BC%E5%85%B0vs%E5%B7%B4%E8%A5%BF_2026-06-25%2005%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-苏格兰vs巴西_2026-06-25 05:30:00
+http://82.156.243.185:34567/xhs/4460912
+#EXTINF:-1 tvg-name="世界杯4K回放-苏格兰vs摩洛哥_2026-06-20 05:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E8%8B%8F%E6%A0%BC%E5%85%B0vs%E6%91%A9%E6%B4%9B%E5%93%A5_2026-06-20%2005%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-苏格兰vs摩洛哥_2026-06-20 05:30:00
+http://82.156.243.185:34567/xhs/4460945
+#EXTINF:-1 tvg-name="世界杯4K回放-英格兰vs克罗地亚_2026-06-18 03:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A_2026-06-18%2003%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-英格兰vs克罗地亚_2026-06-18 03:30:00
+http://82.156.243.185:34567/xhs/4460935
+#EXTINF:-1 tvg-name="世界杯4K回放-英格兰vs刚果民主共和国_2026-07-01 23:00:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E5%88%9A%E6%9E%9C%E6%B0%91%E4%B8%BB%E5%85%B1%E5%92%8C%E5%9B%BD_2026-07-01%2023%3A00%3A00.png" group-title="4K世界杯回放",世界杯4K回放-英格兰vs刚果民主共和国_2026-07-01 23:00:00
+http://82.156.243.185:34567/xhs/4459724
+#EXTINF:-1 tvg-name="世界杯4K回放-英格兰vs加纳_2026-06-24 03:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E5%8A%A0%E7%BA%B3_2026-06-24%2003%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-英格兰vs加纳_2026-06-24 03:30:00
+http://82.156.243.185:34567/xhs/4460936
+#EXTINF:-1 tvg-name="世界杯4K回放-荷兰vs摩洛哥_2026-06-30 08:00:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E8%8D%B7%E5%85%B0vs%E6%91%A9%E6%B4%9B%E5%93%A5_2026-06-30%2008%3A00%3A00.png" group-title="4K世界杯回放",世界杯4K回放-荷兰vs摩洛哥_2026-06-30 08:00:00
+http://82.156.243.185:34567/xhs/4459719
+#EXTINF:-1 tvg-name="世界杯4K回放-荷兰vs日本_2026-06-15 03:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E8%8D%B7%E5%85%B0vs%E6%97%A5%E6%9C%AC_2026-06-15%2003%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-荷兰vs日本_2026-06-15 03:30:00
+http://82.156.243.185:34567/xhs/4460917
+#EXTINF:-1 tvg-name="世界杯4K回放-荷兰vs瑞典_2026-06-21 00:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E8%8D%B7%E5%85%B0vs%E7%91%9E%E5%85%B8_2026-06-21%2000%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-荷兰vs瑞典_2026-06-21 00:30:00
+http://82.156.243.185:34567/xhs/4460918
+#EXTINF:-1 tvg-name="世界杯4K回放-葡萄牙vs乌兹别克斯坦_2026-06-24 00:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E8%91%A1%E8%90%84%E7%89%99vs%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6_2026-06-24%2000%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-葡萄牙vs乌兹别克斯坦_2026-06-24 00:30:00
+http://82.156.243.185:34567/xhs/4460933
+#EXTINF:-1 tvg-name="世界杯4K回放-葡萄牙vs刚果民主共和国_2026-06-18 00:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E8%91%A1%E8%90%84%E7%89%99vs%E5%88%9A%E6%9E%9C%E6%B0%91%E4%B8%BB%E5%85%B1%E5%92%8C%E5%9B%BD_2026-06-18%2000%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-葡萄牙vs刚果民主共和国_2026-06-18 00:30:00
+http://82.156.243.185:34567/xhs/4460932
+#EXTINF:-1 tvg-name="世界杯4K回放-西班牙vs佛得角_2026-06-15 23:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E8%A5%BF%E7%8F%AD%E7%89%99vs%E4%BD%9B%E5%BE%97%E8%A7%92_2026-06-15%2023%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-西班牙vs佛得角_2026-06-15 23:30:00
+http://82.156.243.185:34567/xhs/4460923
+#EXTINF:-1 tvg-name="世界杯4K回放-西班牙vs沙特阿拉伯_2026-06-21 23:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E8%A5%BF%E7%8F%AD%E7%89%99vs%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF_2026-06-21%2023%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-西班牙vs沙特阿拉伯_2026-06-21 23:30:00
+http://82.156.243.185:34567/xhs/4460924
+#EXTINF:-1 tvg-name="世界杯4K回放-阿尔及利亚vs奥地利_2026-06-28 09:45:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E9%98%BF%E5%B0%94%E5%8F%8A%E5%88%A9%E4%BA%9Avs%E5%A5%A5%E5%9C%B0%E5%88%A9_2026-06-28%2009%3A45%3A00.png" group-title="4K世界杯回放",世界杯4K回放-阿尔及利亚vs奥地利_2026-06-28 09:45:00
+http://82.156.243.185:34567/xhs/4460972
+#EXTINF:-1 tvg-name="世界杯4K回放-阿根廷vs奥地利_2026-06-23 00:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E5%A5%A5%E5%9C%B0%E5%88%A9_2026-06-23%2000%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-阿根廷vs奥地利_2026-06-23 00:30:00
+http://82.156.243.185:34567/xhs/4460930
+#EXTINF:-1 tvg-name="世界杯4K回放-阿根廷vs阿尔及利亚_2026-06-17 08:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E9%98%BF%E5%B0%94%E5%8F%8A%E5%88%A9%E4%BA%9A_2026-06-17%2008%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-阿根廷vs阿尔及利亚_2026-06-17 08:30:00
+http://82.156.243.185:34567/xhs/4460929
+#EXTINF:-1 tvg-name="世界杯4K回放-韩国vs捷克_2026-06-12 09:30:00" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%96%E7%95%8C%E6%9D%AF4K%E5%9B%9E%E6%94%BE-%E9%9F%A9%E5%9B%BDvs%E6%8D%B7%E5%85%8B_2026-06-12%2009%3A30%3A00.png" group-title="4K世界杯回放",世界杯4K回放-韩国vs捷克_2026-06-12 09:30:00
+http://82.156.243.185:34567/xhs/4460938
