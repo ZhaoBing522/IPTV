@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://172.17.0.3/epg/epg.gz"
+#EXTM3U x-tvg-url="http://e.erw.cc/e.xml.gz"
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV1.png" group-title="📺央视频道",CCTV1
 http://39.134.61.219/PLTV/88888888/224/3221227117/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV1.png" group-title="📺央视频道",CCTV1
@@ -363,6 +363,8 @@ http://39.134.61.219/PLTV/88888888/224/3221227257/index.m3u8
 http://39.134.61.219/PLTV/88888888/224/3221227342/index.m3u8
 #EXTINF:-1 tvg-id="辽宁体育休闲" tvg-name="辽宁体育休闲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辽宁体育休闲.png" group-title="📡辽宁频道",辽宁体育休闲
 http://39.134.61.219/PLTV/88888888/224/3221227330/index.m3u8
+#EXTINF:-1 tvg-id="辽宁教育青少" tvg-name="辽宁教育青少" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辽宁教育青少.png" group-title="📡辽宁频道",辽宁教育青少
+http://39.134.61.219/PLTV/88888888/224/3221227329/index.m3u8
 #EXTINF:-1 tvg-id="辽宁移动电视" tvg-name="辽宁移动电视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辽宁移动电视.png" group-title="📡辽宁频道",辽宁移动电视
 http://39.134.61.219/PLTV/88888888/224/3221227255/index.m3u8
 #EXTINF:-1 tvg-id="辽宁宜家购物" tvg-name="辽宁宜家购物" tvg-logo="https://www.xn--rgv465a.top/tvlogo/辽宁宜家购物.png" group-title="📡辽宁频道",辽宁宜家购物
